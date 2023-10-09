@@ -5,8 +5,6 @@ Through coordination within the community, the power adjustment of the members t
 
 The contributions of this sub-project to the further development of the state of the art and its implementation in practice are aimed at the following areas:
 
-The contributions of this sub-project to the further development of the state of the art and its implementation in practice are sought in the following areas:
-
 - Development of the coordination mechanism based on mechanism design theory.
 - Development of algorithmically supported, self-learning trading strategies for participation in the mechanism
 - Robustness of the system by resolving conflicting goals and avoiding “surge” of the system
